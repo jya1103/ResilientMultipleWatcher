@@ -1,0 +1,7 @@
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\bin\Debug\NetFileSystemWatcher.exe.config
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\bin\Debug\NetFileSystemWatcher.exe
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\bin\Debug\NetFileSystemWatcher.pdb
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\obj\Debug\NetFileSystemWatcher.csprojAssemblyReference.cache
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\obj\Debug\NetFileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\obj\Debug\NetFileSystemWatcher.exe
+C:\Users\jya1104\Downloads\NetFileSystemWatcher\sourceCode\sourceCode\AMoreResilientFileSystemWatcher\NetFileSystemWatcher\obj\Debug\NetFileSystemWatcher.pdb
